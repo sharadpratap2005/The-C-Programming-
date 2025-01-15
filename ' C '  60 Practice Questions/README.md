@@ -1,1 +1,1 @@
-This repository contains 60 carefully curated C programming practice questions with solutions, designed to enhance your coding skills and understanding of core C concepts. Whether you're a beginner or looking to sharpen your skills
+These are some ' C ' beginner level programming questions for practice you can check them. 
