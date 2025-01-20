@@ -1,0 +1,88 @@
+1. Write a program to print Hello World.
+2. Write a program to print your name.
+3. Write a program to print an integer entered by the user.
+4. Write a program to perform sum of two numbers.
+5. Write a program to perform multiplication of two numbers.
+6. Write a program to perform division of 2 numbers.
+7. Write a program to find the remainder of 2 numbers.
+8. Write a program to check whether the number is prime or not.
+9. Write a program to print the ASCII value of a character.
+10. Write a program to swap two numbers without using third variable.
+11. Write a program to calculate Fahrenheit to Celsius.
+12. Write a program to find the size of int, float, char, and double.
+13. Write a program to add two complex numbers.
+14. Write a program to find the maximum of two numbers.
+15. Write a program to find the minimum of two numbers.
+16. Write a program to find the maximum of three numbers.
+17. Write a program to find the minimum of three numbers.
+18. Write a program to find whether the number is prime or not.
+19. Write a program to find the eligibility for a driving license from age.
+20. Write a program to perform the division of 2 numbers. The program should be able to handle 
+the scenario if the denominator is zero.
+21. Write a program to print the prime numbers from 1 to N.
+22. Write a program to print the prime numbers in a given range.
+23. Write a program to calculate the simple interest.
+24. Write a program to print factorial of a number.
+25. Write a program to find the area and perimeter of a rectangle.
+26. Write a program to find whether the number entered by the user is +ve, -ve or zero.
+27. Write a program to check whether the number is even or odd.
+28. Write a program to check whether the number is a vowel or consonant.
+29. Write a program to input any character and check whether it is the alphabet, digit, or special 
+character.
+30. Write a program to check whether a character is uppercase or lowercase alphabet.
+31. Write a program to input the week number and print the weekday.
+32. Write a program to input the month number and print the number of days in that month.
+33. Write a program to input angles of a triangle and check whether triangle is valid or not.
+34. Write a program to input all sides of a triangle and check whether triangle is valid or not.
+35. Write a program to check whether the triangle is equilateral, isosceles or scalene triangle.
+36. Write a program to find all roots of a quadratic equation.
+37. Write a program to calculate profit or loss.
+38. Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and 
+Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+39. Write a program to input basic salary of an employee and calculate its Gross salary according 
+to following:
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+40. Write a program to input electricity unit charges and calculate total electricity bill according 
+to the given condition:
+For first 50 units Rs. 0.50/unit
+For next 100 units Rs. 0.75/unit
+For next 100 units Rs. 1.20/unit
+For unit above 250 Rs. 1.50/unit
+An additional surcharge of 20% is added to the bill
+41. Write a program to find the eligibility for a driving license from age using switch case.
+42. Write a program to check whether the number is a vowel or consonant using switch case.
+43. Write a program to input the week number and print the weekday using switch case.
+44. Write a program to input the month number and print the number of days in that month
+using switch case.
+45. Write a program for calculator using if else ladder.
+46. Write a program for calculator using switch case.
+47. Write a program to print ODD numbers from 1 to N using while loop.
+48. Write a program to print EVEN numbers from 1 to N using while loop.
+49. Write a program to print all uppercase alphabets using while loop.
+50. Write a program to print all lowercase alphabets using while loop.
+51. Write a program to read an integer and print its multiplication table.
+52. Write a program to print tables from numbers 1 to 20.
+53. Write a program to check entered number is ZERO, POSITIVE or NEGATIVE until user does not 
+want to quit.
+54. Write a program to find factorial of a number.
+55. Write a program to find sum of first N natural number, N must be taken by the user.
+56. Write a program to print square, cube and square root of all numbers from 1 to N.
+57. Write a program to print all Armstrong Numbers from 1 to N.
+58. Write a program to design a digital clock.
+59. Write a program to validate date (Check date is valid or not).
+Enter date.
+Check year validation(b/w 1900 to 9999), if year is not valid print error.
+If year is valid, check month validation (i.e. month is between 1 to 12), if month is 
+not valid print error.
+If month is valid, then finally check day validation with leap year condition, here we 
+will day range from 1 to 30, 1 to 31, 1 to 28 and 1 to 29.
+If day is valid print date is correct otherwise print error.
+60. Write a program to remove consecutive repeated characters from string.
